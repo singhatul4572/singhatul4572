@@ -56,24 +56,12 @@
 </p>
 
 
----
 
 
-## 💬 Let's Collaborate
-
-💡 I'm open to **data analysis**, **dashboard development**, **blog writing**, or **mentoring sessions**.  
-🤝 Let's build something meaningful together!
-
----
-
-## 💭 Quote I Live By
-
-> _"Love the life you live. Live the life you love."_  
-> — **Bob Marley**
 
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0FFF50,100:00751F&height=120&section=footer" />
 </p>
