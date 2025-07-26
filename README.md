@@ -1,22 +1,79 @@
-<h1 align="center">Holla! 👋, I'm Atul Kumar Singh</h1>
-<h3 align="center">A passionate Data enthusiast from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=singhatul4572&label=Profile%20views&color=0e75b6&style=flat" alt="singhatul4572" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=singhatul4572" alt="singhatul4572" /></a> </p>
-
-- 📝 I regularly write articles on [https://medium.com/@singhatul4572](https://medium.com/@singhatul4572)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/singhatul4572" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="singhatul4572" height="30" width="40" /></a>
-<a href="https://kaggle.com/atul_4572" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="atul_4572" height="30" width="40" /></a>
-<a href="https://medium.com/@singhatul4572" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@singhatul4572" height="30" width="40" /></a>
+<h1 align="center" style="color:#f39c12;">✨ Hey! I'm <span style="color:#e67e22;">Atul</span> ✨</h1>
+<p align="center">
+  <a href="https://linkedin.com/in/singhatul4572" target="blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://kaggle.com/atul_4572" target="blank">
+    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@singhatul4572" target="blank">
+    <img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:<//h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=4000&pause=1000&color=FF00CC&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Data+driven+decisions.;Visualizing+insights+through+EDA;Explore.+Analyze.+Create!" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=singhatul4572&show_icons=true&locale=en&layout=compact" alt="singhatul4572" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=singhatul4572&show_icons=true&locale=en" alt="singhatul4572" /></p>
+## 🌟 About Me
+
+🎯 Transforming complex data into beautiful stories using **Power BI**, **SQL**, and **Python**  
+💼 Experienced in data wrangling, visualization, and dashboard development  
+🧠 Passionate about building tools that empower decisions  
+✍️ I share insights and tutorials on [Medium](https://medium.com/@singhatul4572)
+
+---
+
+## ⚒️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,pandas,seaborn,scikit-learn,git,github,aws,powerbi,vscode&theme=light" />
+</p>
+
+---
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=singhatul4572&theme=dracula&title=Stars,Followers,Commits,Repositories,PullRequest&margin-w=15&no-frame=true" />
+</p>
+
+---
+
+## 📊 GitHub Stats & Streak
+
+<!-- GitHub Stats and Streak: Side-by-side with equal width -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=singhatul4572&show_icons=true&theme=radical" width="40%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhatul4572&theme=radical" width="40%" />
+</p>
+
+<!-- Top Languages: Width equal to both above combined -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhatul4572&layout=compact&theme=radical" width="30%" />
+</p>
+
+
+---
+
+
+## 💬 Let's Collaborate
+
+💡 I'm open to **data analysis**, **dashboard development**, **blog writing**, or **mentoring sessions**.  
+🤝 Let's build something meaningful together!
+
+---
+
+## 💭 Quote I Live By
+
+> _"Love the life you live. Live the life you love."_  
+> — **Bob Marley**
+
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer" />
+</p>
